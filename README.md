@@ -3,7 +3,10 @@ Enclosed will be - if this repository sees any success - helpful material for so
 Solutions to problems of different online judges such as the University of Valladolid (UVa) Online Judge, Hackerrank, etc..
 As well, general strategies for solving problems in the fields of computer science involved.
 
-To rules will be followed most of the time:
+This is also meant as a learning experience for myself, as I still have quite a lot to learn about computer science.
+If you were expecting something good and saw complete garbage, sorry m8.
+
+Two rules will be followed most of the time:
   1) Solutions should be short, i.e.: should take up less lines, so as to make typing fast.
   2) Solutions should be as simple as possible. Simplicity is inversely proportional to the amount of theoretical knowlege required to understand them and the number of "extra hoops" one has to jump to solve the problem.
   
